@@ -1,0 +1,17 @@
+1.WarmFreak:
+Boceto de lo que vamos a hacer.
+Lo haremos "Mobile Firts" y luego lo ajustaremos a Desktop
+
+2.Paleta de colores:
+
+#4488ee
+
+#e2eaff
+
+#18233f
+
+3.Header:
+-Aqui vamos a hacer un header desplegable con un icono y su barra de navegacion.
+
+4. Main section:
+con su titulo y skin.
